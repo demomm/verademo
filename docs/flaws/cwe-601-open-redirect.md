@@ -7,9 +7,9 @@ the destination website served when navigating through VeraDemo.
 
 Exploit
 -------
-1. Go to /verademo/login?target=http://google.com
+1. Go to /login?target=https://veracode.com
 2. Login, if the user is not already
-3. Observe the Google homepage is loaded
+3. Observe the Veracode homepage is loaded
 
 Mitigate
 --------
